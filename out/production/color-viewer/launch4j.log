@@ -1,0 +1,60 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\zxphy\Desktop\prjects\rgb\wizard.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\zxphy\Desktop\prjects\rgb\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Java\jre-1.8
+Substitute:	PATH = C:\Program Files (x86)\Java\jdk-21\bin;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\;C:\Users\zxphy\AppData\Local\Programs\Python\Launcher\;C:\Users\zxphy\AppData\Local\Microsoft\WindowsApps;C:\Users\zxphy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zxphy\.dotnet\tools;C:\Users\zxphy\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Jar2Exe Wizard\;C:\Program Files (x86)\Java\jre-1.8\bin
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8;C:\Program Files (x86)\Java\jdk-21\bin;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\;C:\Users\zxphy\AppData\Local\Programs\Python\Launcher\;C:\Users\zxphy\AppData\Local\Microsoft\WindowsApps;C:\Users\zxphy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zxphy\.dotnet\tools;C:\Users\zxphy\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Jar2Exe Wizard\;C:\Program Files (x86)\Java\jre-1.8\bin
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\zxphy\Desktop\prjects\rgb\Based.jar"
+Args length:	51/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\zxphy\Desktop\prjects\rgb\wizard.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\zxphy\Desktop\prjects\rgb\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Java\jre-1.8
+Substitute:	PATH = C:\Program Files (x86)\Java\jdk-21\bin;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\;C:\Users\zxphy\AppData\Local\Programs\Python\Launcher\;C:\Users\zxphy\AppData\Local\Microsoft\WindowsApps;C:\Users\zxphy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zxphy\.dotnet\tools;C:\Users\zxphy\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Jar2Exe Wizard\;C:\Program Files (x86)\Java\jre-1.8\bin
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8;C:\Program Files (x86)\Java\jdk-21\bin;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\;C:\Users\zxphy\AppData\Local\Programs\Python\Launcher\;C:\Users\zxphy\AppData\Local\Microsoft\WindowsApps;C:\Users\zxphy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zxphy\.dotnet\tools;C:\Users\zxphy\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Jar2Exe Wizard\;C:\Program Files (x86)\Java\jre-1.8\bin
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\zxphy\Desktop\prjects\rgb\Based.jar"
+Args length:	51/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\zxphy\Desktop\prjects\rgb\wizard.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\zxphy\Desktop\prjects\rgb\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Java\jre-1.8
+Substitute:	PATH = C:\Program Files (x86)\Java\jdk-21\bin;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\;C:\Users\zxphy\AppData\Local\Programs\Python\Launcher\;C:\Users\zxphy\AppData\Local\Microsoft\WindowsApps;C:\Users\zxphy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zxphy\.dotnet\tools;C:\Users\zxphy\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Jar2Exe Wizard\;C:\Program Files (x86)\Java\jre-1.8\bin
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8;C:\Program Files (x86)\Java\jdk-21\bin;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\zxphy\AppData\Local\Programs\Python\Python311\;C:\Users\zxphy\AppData\Local\Programs\Python\Launcher\;C:\Users\zxphy\AppData\Local\Microsoft\WindowsApps;C:\Users\zxphy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zxphy\.dotnet\tools;C:\Users\zxphy\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Jar2Exe Wizard\;C:\Program Files (x86)\Java\jre-1.8\bin
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\zxphy\Desktop\prjects\rgb\Based.jar"
+Args length:	51/32768 chars
+Exit code:	0
